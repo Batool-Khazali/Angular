@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Angular-26-9.Server.props" />
+</Project>

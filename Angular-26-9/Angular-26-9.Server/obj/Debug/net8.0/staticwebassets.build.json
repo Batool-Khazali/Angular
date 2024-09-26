@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ZLLQdrM7q1gjBiemgu8IHJ/t8aHoPP35CcCPaM96juo=",
+  "Source": "Angular-26-9.Server",
+  "BasePath": "_content/Angular-26-9.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\tasks - clone\\Angular-26-9\\angular-26-9.client\\angular-26-9.client.esproj",
+      "Version": 2,
+      "Source": "angular-26-9.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
