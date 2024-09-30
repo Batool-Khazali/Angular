@@ -1,0 +1,15 @@
+<p>subsription works!</p>
+
+<div class="row" *ngFor="let item of allSubscriptionArray">
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">{{item.subscriptionName}}</h5>
+        <p class="card-text">{{item.subscriptionAmount}}</p>
+        <p class="card-text">{{item.subscriptionDescription}}</p>
+        <a href="" class="btn btn-primary" (click)="addSubscriptionUser(item.subscriptionId)">subscripe now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
