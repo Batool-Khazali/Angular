@@ -1,0 +1,64 @@
+
+<p>lecture works!</p>
+
+<p>{{name}}</p>      <!--string binding-->
+<p>{{num}}</p>      <!--string binding-->
+
+<img src="{{urlImg}}" width="300px" />      <!--string binding-->
+<br /><br />
+
+<img [src]="urlImg" width="300px" />      <!--property binding-->
+<br /><br />
+
+<button (click)="change()">change number</button>      <!--event binding-->
+<br /><br />
+
+<input type="number" value="{{num}}" [(ngModel)]="num" />      <!--2-way binding-->
+<br /><br />
+
+
+
+<!--------------------------------------------------------------------Tue 1-10------------------------------------------------------------------->
+
+
+
+<!--if condition is met, the sentence will appear. change the ts "display" variable-->
+<p *ngIf="display == true">hello world!</p>     
+<p *ngIf="display == false">!dlrow olleh</p>
+
+<p *ngIf="num1 > num2">{{num1}} is greater than {{num2}}</p>
+<p *ngIf="num2 > num1">{{num2}} is greater than {{num1}}</p>
+<p *ngIf="num1 == num2">{{num1}} equals {{num2}}</p>
+
+
+<div *ngFor="let f of fruits">
+  <span>{{f}} </span>
+</div>
+
+
+<div [ngSwitch]="color">
+  <p *ngSwitchCase="'orchid'">color is orchid</p>
+  <p *ngSwitchCase="'lilac'">color is lilac</p>
+  <p *ngSwitchCase="'purple'">color is purple</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\subsription\\subsription.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\subsription\\subsription.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\project-url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\project-url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|solutionrelative:angular.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.server\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|solutionrelative:angular.server\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.server\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|solutionrelative:angular.server\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45AE-2B5B-4A2E-AF55-570675830559}|Angular.Server\\Angular.Server.csproj|solutionrelative:angular.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 4\\angular\\angular.client\\src\\app\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "subsription.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\subsription\\subsription.component.ts",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\subsription\\subsription.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\subsription\\subsription.component.ts",
+              "RelativeToolTip": "angular.client\\src\\app\\subsription\\subsription.component.ts",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T10:51:24.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "angular.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T10:34:50.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project-url.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\project-url.service.ts",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\project-url.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\project-url.service.ts",
+              "RelativeToolTip": "angular.client\\src\\app\\project-url.service.ts",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T10:30:39.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "angular.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T10:30:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\login\\login.component.css",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\login\\login.component.css",
+              "RelativeToolTip": "angular.client\\src\\app\\login\\login.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-01T10:28:36.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "angular.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T10:28:30.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\DTO\\loginDTO.cs",
+              "RelativeDocumentMoniker": "Angular.Server\\DTO\\loginDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\DTO\\loginDTO.cs",
+              "RelativeToolTip": "Angular.Server\\DTO\\loginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:14:13.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "registration.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\registration\\registration.component.ts",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\registration\\registration.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\registration\\registration.component.ts",
+              "RelativeToolTip": "angular.client\\src\\app\\registration\\registration.component.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T09:31:58.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "registration.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\registration\\registration.component.html",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\registration\\registration.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\registration\\registration.component.html",
+              "RelativeToolTip": "angular.client\\src\\app\\registration\\registration.component.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T09:23:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angular.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T09:18:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "registerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\DTO\\registerDTO.cs",
+              "RelativeDocumentMoniker": "Angular.Server\\DTO\\registerDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\DTO\\registerDTO.cs",
+              "RelativeToolTip": "Angular.Server\\DTO\\registerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:07:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Angular.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Angular.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:06:27.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Angular.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\Angular.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Angular.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:01:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lecture.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\lecture\\lecture.component.html",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\lecture\\lecture.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\lecture\\lecture.component.html",
+              "RelativeToolTip": "angular.client\\src\\app\\lecture\\lecture.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T06:19:18.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "lecture.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\lecture\\lecture.component.ts",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\lecture\\lecture.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 4\\Angular\\angular.client\\src\\app\\lecture\\lecture.component.ts",
+              "RelativeToolTip": "angular.client\\src\\app\\lecture\\lecture.component.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T06:18:40.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
