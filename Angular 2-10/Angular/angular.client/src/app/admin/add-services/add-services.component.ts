@@ -33,7 +33,9 @@ export class AddServicesComponent {
 
     this._ser.addService(form).subscribe(() => {
       alert("added successfully")
-    })
+    },
+      (error) => { alert(error.error) }
+    )
   }
 
 
