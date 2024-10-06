@@ -1,0 +1,21 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Image</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let item of ServicesArray; let i = index">
+    <tr>
+      <th scope="row">{{i + 1}}</th>
+      <td><img src="../../../assets/images/{{item.serviceImage}}" /></td>
+      <td>{{item.serviceName}}</td>
+      <td>{{item.serviceDescription}}</td>
+      <td><a routerLink="/dashboard/updateservices/{{item.serviceId}}" class="btn btn-primary">Edit</a></td>
+    </tr>
+  </tbody>
+</table>
