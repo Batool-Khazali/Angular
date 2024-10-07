@@ -1,6 +1,7 @@
 ﻿using Angular.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Angular.Server.Controllers
 {
@@ -23,7 +24,17 @@ namespace Angular.Server.Controllers
             return Ok(pro);
         }
 
+        [HttpGet("getAllProducts/{catId}")]
+        public IActionResult getProByCat(int catId)
+        {
+            if (catId <= 0) return BadRequest();
 
+            var pro = _db.Products.Where(a => a.CategoryId == catId).ToList();
+
+            if (pro.IsNullOrEmpty()) return NotFound();
+
+            return Ok(pro);
+        }
 
 
 

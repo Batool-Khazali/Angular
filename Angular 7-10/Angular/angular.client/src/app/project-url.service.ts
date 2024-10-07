@@ -104,6 +104,13 @@ export class ProjectUrlService {
   }
 
 
+  getAllCategories(): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/Categories/getAllCategories`)
+  }
+
+  getProByCat(id: number): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/Products/getAllProducts/${id}`)
+  }
 
 
 

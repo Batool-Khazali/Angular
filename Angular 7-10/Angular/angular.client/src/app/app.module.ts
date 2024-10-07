@@ -22,6 +22,8 @@ import { UpdateServicesComponent } from './admin/update-services/update-services
 import { ProfileComponent } from './profile/profile.component';
 import { ProductsComponent } from './products/products.component';
 import { CartComponent } from './cart/cart.component';
+import { CategoryComponent } from './category/category.component';
+import { CatproductsComponent } from './catproducts/catproducts.component';
 
 @NgModule({
   declarations: [
@@ -41,7 +43,9 @@ import { CartComponent } from './cart/cart.component';
     UpdateServicesComponent,
     ProfileComponent,
     ProductsComponent,
-    CartComponent
+    CartComponent,
+    CategoryComponent,
+    CatproductsComponent
   ],
   imports: [
     FormsModule,
@@ -59,6 +63,8 @@ import { CartComponent } from './cart/cart.component';
       { path: "profile", component: ProfileComponent },
       { path: "products", component: ProductsComponent },
       { path: "cart", component: CartComponent },
+      { path: "category", component: CategoryComponent },
+      { path: "catproducts/:id", component: CatproductsComponent },
       {
         path: "dashboard", component: DashboardComponent, children: [
           { path: "addservices", component: AddServicesComponent },
