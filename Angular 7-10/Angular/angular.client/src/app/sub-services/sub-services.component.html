@@ -1,0 +1,11 @@
+<div class="row" *ngFor="let item of SubServicesArray">
+  <div class="col-md-4">
+    <div class="card">
+      <img class="card-img-top" src="/assets/images/{{item.subServiceImage}}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{item.subServiceName}}</h5>
+        <a routerLink="/details/{{item.subServiceId}}" class="btn btn-primary">Details</a>
+      </div>
+    </div>
+  </div>
+</div>

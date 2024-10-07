@@ -1,0 +1,23 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">ProductID</th>
+      <th scope="col">Quantity</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let item of cartArray">
+    <tr>
+      <th scope="row">#</th>
+      <td>{{item.ProductID}}</td>
+      <td>
+
+        <button (click)="addQuan(item.ProductID)">+</button>
+        <input type="number" value="{{item.Quantity}}" />
+        <button (click)="subQuan(item.ProductID)">-</button>
+
+      </td>
+    </tr>
+  </tbody>
+</table>

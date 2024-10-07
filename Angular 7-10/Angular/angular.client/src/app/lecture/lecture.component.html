@@ -1,0 +1,103 @@
+
+<p>lecture works!</p>
+
+<p>{{name}}</p>      <!--string binding-->
+<p>{{num}}</p>      <!--string binding-->
+
+<img src="{{urlImg}}" width="300px" />      <!--string binding-->
+<br />
+<br />
+
+<img [src]="urlImg" width="300px" />      <!--property binding-->
+<br />
+<br />
+
+<button (click)="change()">change number</button>      <!--event binding-->
+<br />
+<br />
+
+<input type="number" value="{{num}}" [(ngModel)]="num" />      <!--2-way binding-->
+<br />
+<br />
+
+
+
+<!--------------------------------------------------------------------Tue 1-10------------------------------------------------------------------->
+<!--if condition is met, the sentence will appear. change the ts "display" variable-->
+<p *ngIf="display == true">hello world!</p>
+<p *ngIf="display == false">!dlrow olleh</p>
+
+<p *ngIf="num1 > num2">{{num1}} is greater than {{num2}}</p>
+<p *ngIf="num2 > num1">{{num2}} is greater than {{num1}}</p>
+<p *ngIf="num1 == num2">{{num1}} equals {{num2}}</p>
+
+
+<div *ngFor="let f of fruits">
+  <span>{{f}} </span>
+</div>
+
+
+<div [ngSwitch]="color">
+  <p *ngSwitchCase="'orchid'">color is orchid</p>
+  <p *ngSwitchCase="'lilac'">color is lilac</p>
+  <p *ngSwitchCase="'purple'">color is purple</p>
+</div>
+
+
+
+<!-------------------------------------------------------------Wed 2-10----------------------------------------------------------->
+
+<p [ngStyle]=" { 'background-color' : obj.color } ">{{obj.name}}</p>
+
+
+<div *ngFor="let item of userARRay" [ngClass]="{'greenColor' : item.grade > 15, 'redColor' : item.grade <=15 }">
+  <p>{{item.name}}</p>
+  <p>{{item.grade}}</p>
+</div>
+
+
+<!-------------------------------------- Sun 6-10 ----------------------------------------------------------------------->
+
+<h5>{{name | uppercase}}</h5>
+<h5>{{name2 | lowercase}}</h5>
+<br />
+
+<p>{{num3 | number:'1.2-2'}}</p>
+<p>{{num3 | number:'1.1-5'}}</p>
+<p>{{num4 | number:'1.1-5'}}</p>
+<p>{{num5 | number:'3.3-5'}}</p>
+<br />
+
+
+<p>{{50 | currency:'JOD ':'symbol'}}</p>
+<p>{{50 | currency}}</p>
+<br />
+
+<p>{{num3 | percent:'1.2-2'}}</p>
+<p>{{num3 | percent:'1.1-5'}}</p>
+<p>{{num4 | percent:'1.1-5'}}</p>
+<p>{{num5 | percent:'3.3-5'}}</p>
+<p>{{num6 | percent:'3.3-5'}}</p>
+<br />
+
+<p>full date: {{ today | date:'fullDate' }}</p>
+<p>short date: {{ today | date:'shortDate' }}</p>
+<p>datetime: {{ today | date:'short' }}</p>
+<br />
+
+<p>All Items: {{ items }}</p>
+<p>Slice (0 to 3): {{ items | slice:0:3 }}</p>
+<p>Slice (1 to 2): {{ items | slice:1:2 }}</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+

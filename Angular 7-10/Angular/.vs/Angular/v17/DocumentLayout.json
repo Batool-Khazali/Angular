@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 8\\Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 8\\angular\\angular.client\\src\\app\\cart\\cart.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\cart\\cart.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|c:\\users\\orange\\desktop\\notes\\angular 8\\angular\\angular.client\\src\\app\\cart\\cart.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B9DF27-3F4C-45E9-88C9-56932AD98A25}|angular.client\\angular.client.esproj|solutionrelative:angular.client\\src\\app\\cart\\cart.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cart.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 8\\Angular\\angular.client\\src\\app\\cart\\cart.component.ts",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\cart\\cart.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 8\\Angular\\angular.client\\src\\app\\cart\\cart.component.ts",
+              "RelativeToolTip": "angular.client\\src\\app\\cart\\cart.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-07T13:22:09.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cart.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 8\\Angular\\angular.client\\src\\app\\cart\\cart.component.html",
+              "RelativeDocumentMoniker": "angular.client\\src\\app\\cart\\cart.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\Angular 8\\Angular\\angular.client\\src\\app\\cart\\cart.component.html",
+              "RelativeToolTip": "angular.client\\src\\app\\cart\\cart.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-07T13:22:12.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
